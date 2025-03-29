@@ -1,6 +1,6 @@
 # About
 
-The script for Kazakhstan's Kaspi Bank PDF transactions statement parsing. It converts PDF with transactions to a CSV format, which is supported by YNAB for import.
+The script for Kazakhstan's Kaspi Bank PDF transactions statement parsing. It converts PDF with transactions to a CSV format, which is supported by [YNAB](https://www.ynab.com/) budget web-app for import.
 
 # Installation as a "Send To" script for Windows
 
